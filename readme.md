@@ -1,0 +1,3 @@
+# Bandicam
+
+Bandicam是一款由韩国开发的高清视频录制的[电脑软件](https://baike.baidu.com/item/电脑软件/1711577?fromModule=lemma_inlink)。Bandicam可录制分辨率高达3840×2160高画质视频，Bandicam录制时，可添加自己的LOGO到视频中，Bandicam可支持[bmp](https://baike.baidu.com/item/bmp/35116?fromModule=lemma_inlink)、 [png](https://baike.baidu.com/item/png/174154?fromModule=lemma_inlink) 、 [jpeg](https://baike.baidu.com/item/jpeg/213408?fromModule=lemma_inlink) 格式截图。Bandicam支持CUDA/NVENC/Intel Quick Syuc和多种外置编解码器，可供用户自定义录制代码。Bandicam体积小巧便于携带是录制视频不错的选择。
